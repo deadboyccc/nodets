@@ -1,4 +1,4 @@
-# NodeTS Project
+# NodeTS Starter
 
 This is a simple `Node.js Starter` using TypeScript.
 
@@ -24,7 +24,7 @@ This is a simple `Node.js Starter` using TypeScript.
 
 1. Clone the repository:
   ```sh
-  git clone <repository-url>
+  git clone 
   cd nodets
   ```
 
